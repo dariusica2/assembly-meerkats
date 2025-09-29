@@ -18,7 +18,7 @@
 
 ### Task 2 - Divide et impera
 
-* Exercise 1 - Quicksort
+#### Exercise 1 - Quicksort
 
 * I took the last element in the array as a pivot and iterated from the beginning,
   comparing each element with the pivot
@@ -29,7 +29,7 @@
 * This process is repeated to the left and right of the new position of the pivot until
   the array is sorted
 
-* Exercise 2 - Binary search
+#### Exercise 2 - Binary search
 
 * Initially, the values ​​0 and end - 1 are given, that is, the first and last positions in the array
 * The middle position is calculated
